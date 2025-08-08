@@ -1,5 +1,8 @@
 # H1 Header
-## H2 Header
+## tASK LIST
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 #### eXMPLESA
 ```
 $ git init
@@ -12,6 +15,7 @@ var myVar = "Hello, world!";
 ###### H6 header
 short meaningful commit message that describes the change
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 
 
